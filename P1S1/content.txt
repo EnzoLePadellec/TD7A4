@@ -1,0 +1,3 @@
+Bonjour
+Je suis utilisé pour tester l'application Flask qui lit les fichiers texte et affiche leur contenu sur une page web.
+N'hésitez pas à modifier ce fichier et à actualiser la page web pour voir les modifications en temps réel.
